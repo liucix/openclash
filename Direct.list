@@ -11,6 +11,12 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,zuoyebang
 DOMAIN-KEYWORD,ambuf
 
+# CN域名直连
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,xn--fiqs8s
+DOMAIN-SUFFIX,xn--55qx5d
+DOMAIN-SUFFIX,xn--io0a7i
+
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
